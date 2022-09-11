@@ -48,7 +48,7 @@
         android:layout_height="wrap_content"
         android:layout_above="@id/login_activity_signup_textview"
         android:layout_centerHorizontal="true"
-        android:text="Login"
+        android:text="@string/login"
         android:textSize="30dp" />
 
     <TextView
