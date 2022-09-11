@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040853704607",
+    "project_id": "connect-pages-80a8c",
+    "storage_bucket": "connect-pages-80a8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040853704607:android:999fd3598a4b79723867aa",
+        "android_client_info": {
+          "package_name": "com.mkproduction.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040853704607-0c8fsitfrg7se6d5u0uafl3mrur81ji6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo0XuMTeZl_mzG7vaHnwYQ5Im0-wvTsK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040853704607-0c8fsitfrg7se6d5u0uafl3mrur81ji6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

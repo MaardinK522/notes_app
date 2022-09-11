@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.MyNotes" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#00BCD4</item>
+        <item name="colorPrimaryVariant">#1E5258</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#00E2FF</item>
+        <item name="colorSecondaryVariant">#3F51B5</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">#005A65</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
